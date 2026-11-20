@@ -15,11 +15,6 @@ I’m a final-year Electrical and Electronic Engineering student at United Inter
 
 My experience includes custom transistor-level design and layout in Cadence Virtuoso, Verilog-A modeling, SAR ADC implementation, and ESP32-based IoT systems. I’m particularly interested in the complete **RTL-to-GDSII** flow and seeking opportunities to grow in **VLSI, physical design, IC development, and embedded design**.
 
-- 🎓 Expected to graduate in **February 2027**
-- 🔬 Designing 10-bit SAR ADCs for biomedical applications
-- ⚡ Working toward a detailed understanding of the IC implementation flow
-- 🤝 Open to internships and entry-level engineering opportunities
-
 ---
 
 ## 🛠️ Technical Skills
@@ -91,13 +86,6 @@ My experience includes custom transistor-level design and layout in Cadence Virt
 
 ---
 
-### Self-Cascode Current Mirror OTA
-**Analog IC Design Course · Cadence Virtuoso · GPDK 45 nm**
-
-- Sized transistors using the gm/ID methodology
-- Checked DC operating points
-- Analyzed gain, phase margin, gain-bandwidth product, CMRR, PSRR, and noise
-
 ---
 
 ## 🌐 Embedded and Software Projects
@@ -115,12 +103,6 @@ My experience includes custom transistor-level design and layout in Cadence Virt
 
 - Controlled LED brightness using ESP-IDF LEDC PWM
 - Built a remote brightness slider with Adafruit IO
-
-### Guest House Booking System
-**PHP · MySQL**
-
-- Created booking and administrative dashboard pages
-- Implemented dynamic room pricing using a MySQL rooms table
 
 ---
 
