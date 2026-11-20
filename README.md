@@ -131,7 +131,3 @@ My experience includes custom transistor-level design and layout in Cadence Virt
 - **LinkedIn:** [Shahriyar Amin Shibbir](https://linkedin.com/in/shahriyar-amin-shibbir-0247b22b1)
 
 ---
-
-<p align="center">
-  <em>“Learning the complete chip design flow, one transistor at a time.”</em>
-</p>
